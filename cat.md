@@ -1,4 +1,4 @@
-# 解除封印咒语
+# 解除封印
 
 2-19 https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/29#issuecomment-1435914782
 
